@@ -1,0 +1,60 @@
+
+h1
+{
+	
+	font-size: 40px;
+}
+.body_backgorund {
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#mi_canvas{
+background-color: white;
+border-style: ridge;
+border-width: 10px;
+}
+#rojo{
+	background-color: red;
+	color: white;
+}
+#verde{
+	background-color: green;
+	color: white;
+}
+#azul{
+	background-color: blue;
+	color: white;
+}
+#eee{
+	background-color: white;
+}
+#amarillo{
+	background-color: yellow;
+	color: white;
+}
+#negro{
+	background-color: black;
+	color: white;
+}
+#morado{
+	background-color: purple;
+	color: white;
+}
+#rosa{
+	background-color: pink;
+	color: white
+}
+#gris{
+	background-color: grey;
+	color: white
+}
+#naranja{
+	background-color: orange;
+	color: white
+}
+#cafe{
+	background-color: rgb(74, 61, 44);
+	color: white
+}
